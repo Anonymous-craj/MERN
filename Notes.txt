@@ -1,0 +1,18 @@
+Day 3
+
+Folder Creation
+Open folder in vscode and initialize our project using npm init command
+Tip: npm init -y 
+
+Semantic Versioning (semVer)
+
+major.minor.patch (4.18.2)
+
+nodemon
+npm i -g nodemon
+
+mongodb+srv://Siraj:<db_password>@cluster0.tkg7f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+For post request
+body>raw>json
+app.use(express.urlencoded({extended: true}))
