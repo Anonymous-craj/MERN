@@ -16,3 +16,5 @@ mongodb+srv://Siraj:<db_password>@cluster0.tkg7f.mongodb.net/?retryWrites=true&w
 For post request
 body>raw>json
 app.use(express.urlencoded({extended: true}))
+
+https://documenter.getpostman.com/view/33599069/2sAYkHodba
