@@ -24,6 +24,10 @@ const bookSchema = new Schema({
   publication: {
     type: String,
   },
+
+  imageUrl: {
+    type: String,
+  },
 });
 
 const Book = mongoose.model("Book", bookSchema);
